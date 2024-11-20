@@ -1,2 +1,1 @@
-# Email-Spam-Detection
-Email spam classification using federated learning and differential privacy
+Developed a privacy-preserving email spam detection system using Federated Learning to train models across decentralized data sources without sharing raw data. Implemented Natural Language Processing techniques for feature extraction and classification. Enhanced data privacy and scalability in detecting spam across diverse user environments.
